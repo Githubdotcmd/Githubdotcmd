@@ -50,3 +50,13 @@ University:
 Department: Computer Science and Engineering
 
 Semester: First Semester
+
+Project Mentor Acknowledgement
+
+This project was developed under the guidance and mentorship of Mr. Satyaprakash Sethy.
+
+I sincerely thank him for his valuable technical guidance, support, and mentorship throughout this project.
+
+Special mention: @SATYAPRAKASHSETHY
+
+GitHub Profile: https://github.com/SATYAPRAKASHSETHY
